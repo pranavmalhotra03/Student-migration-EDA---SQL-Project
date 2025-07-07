@@ -4,29 +4,47 @@ This project involves exploratory data analysis (EDA) on a dataset of global stu
 
 
 Project Objective
+
 The objective of this project is to use SQL to analyze student movement across countries for education and identify patterns in scholarships, GPA scores, visa types, placement outcomes, and salary distributions.
 
 
 Dataset Summary
+
 •	File name: global_student_migration.csv
+
 •	Number of records: 5,000
+
 •	Columns: 20
 
 
 Key columns:
+
 •	origin_country
+
 •	destination_country
+
 •	university_name
+
 •	course_name
+
 •	field_of_study
+
 •	year_of_enrollment
+
 •	graduation_year
+
 •	scholarship_received
+
 •	placement_status
+
 •	starting_salary_usd
+
 •	gpa_or_score
+
 •	visa_status
+
 •	language_proficiency_test
+
 •	test_score
 
 
@@ -47,6 +65,7 @@ Analysis Performed
 10.	Detection of missing values and outliers in salary and GPA
 
 Key Insights
+
 •	Countries like UAE, Germany and the UK receive the highest number of international students
 
 •	Social Science, Engineering and Business Administration are the most chosen fields of study
