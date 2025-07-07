@@ -1,11 +1,18 @@
 Global Student Migration - SQL EDA Project
+
 This project involves exploratory data analysis (EDA) on a dataset of global student migration using SQL Server. The goal is to uncover trends in student destinations, fields of study, university preferences, placements, and other related factors.
+
+
 Project Objective
 The objective of this project is to use SQL to analyze student movement across countries for education and identify patterns in scholarships, GPA scores, visa types, placement outcomes, and salary distributions.
+
+
 Dataset Summary
 •	File name: global_student_migration.csv
 •	Number of records: 5,000
 •	Columns: 20
+
+
 Key columns:
 •	origin_country
 •	destination_country
@@ -21,9 +28,13 @@ Key columns:
 •	visa_status
 •	language_proficiency_test
 •	test_score
+
+
 Tools Used
 •	SQL Server Management Studio (SSMS)
-Analyses Performed
+
+
+Analysis Performed
 1.	Count of records and unique values
 2.	Null value analysis across all columns
 3.	Most common destination countries and universities
