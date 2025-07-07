@@ -48,7 +48,11 @@ Analysis Performed
 
 Key Insights
 •	Countries like UAE, Germany and the UK receive the highest number of international students
+
 •	Social Science, Engineering and Business Administration are the most chosen fields of study
+
 •	Placement rates are highest in technical fields
+
 •	Duolingo and PTE are the most common language tests with good average scores
+
 •	Several outliers in GPA and starting salary were identified and flagged
